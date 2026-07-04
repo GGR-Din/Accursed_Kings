@@ -1,0 +1,5 @@
+﻿910100001 = {
+    name = "dynn_ak_capet"
+    culture = "french"
+    motto = "dynn_ak_capet_motto"
+}

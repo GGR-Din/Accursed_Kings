@@ -1,0 +1,6 @@
+﻿k_france = {
+    1314.3.18 = {
+        holder = 910000001
+        government = feudal_government
+    }
+}

@@ -1,0 +1,29 @@
+﻿910000001 = {
+    name = "Philippe"
+    dynasty_house = house_ak_capet
+
+    religion = catholic
+    culture = french
+
+    diplomacy = 18
+    martial = 10
+    stewardship = 16
+    intrigue = 14
+    learning = 11
+    prowess = 6
+
+    trait = ambitious
+    trait = diligent
+    trait = just
+    trait = education_diplomacy_4
+
+    disallow_random_traits = yes
+
+    1268.4.1 = {
+        birth = yes
+    }
+
+    1314.11.29 = {
+        death = yes
+    }
+}

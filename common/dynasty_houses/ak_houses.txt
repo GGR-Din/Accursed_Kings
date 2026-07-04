@@ -1,0 +1,5 @@
+﻿house_ak_capet = {
+    name = "house_ak_capet"
+    dynasty = 910100001
+    motto = "house_ak_capet_motto"
+}

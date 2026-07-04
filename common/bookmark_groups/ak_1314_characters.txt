@@ -1,0 +1,17 @@
+﻿bm_ak_1314 = {
+    character = {
+        name = "bookmark_ak_philippe_iv"
+        dynasty = 910100001
+        dynasty_splendor_level = 4
+        type = male
+        birth = 1268.4.1
+        title = k_france
+        government = feudal_government
+        culture = french
+        religion = catholic
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+        history_id = 910000001
+        position = { 690 575 }
+        animation = personality_rational
+    }
+}
